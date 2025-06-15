@@ -10,12 +10,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+  <a href="mailto:yukif69@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
 
 ###
 
@@ -29,7 +34,7 @@
 ###
 
 
-<h3 align="left">🛠  Technologies:</h3>
+<h3 align="left">💻 Technologies:</h3>
 
 ###
 
@@ -48,14 +53,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+</div>
+
+###
+
+<h3 align="left">🛠   Tools:</h3>
+
+###
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
 </div>
-
-###
 
 <h3 align="left">🔥    My statistics :</h3>
 
