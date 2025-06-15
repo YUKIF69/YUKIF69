@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me.</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 ###
 
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠  Technologies:</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥    My statistics :</h3>
 
 ###
 
