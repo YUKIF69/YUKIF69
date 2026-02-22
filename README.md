@@ -40,6 +40,8 @@ Currently, I’m actively studying and looking for my **first Junior developer p
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=scss" height="40"/>
   <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
