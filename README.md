@@ -48,7 +48,6 @@ Currently, I’m actively studying and looking for my **first Junior developer p
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vite" height="40"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="40"/>
 </div>
 
 <br><br>
