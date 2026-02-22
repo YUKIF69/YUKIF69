@@ -23,7 +23,7 @@
 I'm a passionate Full-Stack developer focused mainly on Frontend development.
 
 After exploring Python, C++, and Data Science, I realized that building interfaces and web applications truly inspires me.  
-Currently, I’m actively studying and looking for my **first Junior developer position**.
+Currently, I’m actively studying and looking for my **first Developer position**.
 
 <br><br>
 
