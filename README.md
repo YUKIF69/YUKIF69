@@ -16,7 +16,7 @@
   </a>
 </div>
 
-
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +26,7 @@ I started my journey with a Frontend марафон from Go-IT and later continu
 After exploring Python, C++, and Data Science, I realized that building interfaces and web applications truly inspires me.  
 Currently, I’m actively studying and looking for my **first Junior developer position**.
 
-
+<br><br>
 
 ## 💻 Technologies
 
@@ -52,7 +52,7 @@ Currently, I’m actively studying and looking for my **first Junior developer p
   <img src="https://skillicons.dev/icons?i=py" height="40"/>
 </div>
 
-
+<br><br>
 
 ## 🛠 Tools
 
@@ -66,21 +66,23 @@ Currently, I’m actively studying and looking for my **first Junior developer p
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 </div>
 
+<br><br>
+  
 ## 🔥 GitHub Stats
 
 <div align="center">
-  
+
   <img 
     src="https://streak-stats.demolab.com?user=YUKIF69&theme=tokyonight&hide_border=true" 
     height="200"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YUKIF69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YUKIF69&theme=tokyonight" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUKIF69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YUKIF69&theme=tokyonight" 
   />
 
 </div>
+
+
